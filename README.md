@@ -1,0 +1,1 @@
+THis project consists of creating a recipe website to practice my HTML skills
