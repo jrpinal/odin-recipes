@@ -1,1 +1,1 @@
-This project consists of creating a recipe website to practice my HTML skills
+Hello! The current project consists of creating a recipes website in order to practice and put to test my newly acquired HTML skills. These recipes were copied and pasted from other websites (since I do not know how to cook any of these, yet I love them).
