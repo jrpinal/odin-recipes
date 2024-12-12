@@ -1,25 +1,14 @@
-* {
-    background-color: #f2f470;
-}
-
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(227, 171, 153);
 }
 
-h1.heading {
-    color: rgb(22, 57, 0);
+h1 {
+    color: rgba(45, 13, 118, 0.678);
     text-align: right;
 }
 
 .par {
-    color: rgb(85, 0, 0);
+    color: rgba(8, 3, 19, 0.891);
     text-align: right;
-}
-
-.rec {
-    text-align: right;
-}
-
-#title {
-    font-family: 'Courier New', Courier, monospace;
 }
