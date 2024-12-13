@@ -1,49 +1,17 @@
-* {
-  background-color: #bb754ad0;
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #e19b70d0;
 }
 
-h1.heading {
-    font-family: 'Courier New', Courier, monospace;
+h1 {
     text-align: center;
-    font-size: 36px;
-    color: rgb(120, 4, 4)
+    color: rgba(188, 17, 17, 0.641);
 }
 
-.center {
+.img {
     display: block;
+    border: 3px solid rgba(188, 17, 17, 0.641);
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
-
-
-  .head.ing {
-    color: rgb(20, 99, 1);
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-  }
-
-  .head.steps {
-    color: rgb(91, 48, 2);
-    text-align: right;
-  }
-
-  .par {
-    font-family: 'Courier New', Courier, monospace;
-    color:black
-  }
-
-  .list {
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-  }
-
-  .seclist {
-    font-family: 'Courier New', Courier, monospace;
-    text-align: right;
-  }
-
-  .desc {
-    font-family: 'Courier New', Courier, monospace;
-    color: rgb(114, 105, 5)
   }
