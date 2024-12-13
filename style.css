@@ -8,11 +8,12 @@ h1 {
     text-align: right;
 }
 
-img {
+.img {
     display: block;
+    border: 3px solid rgba(45, 13, 118, 0.678);
     height: 470px;
     width: 450px;
-    margin: 25px 975px;}
+    margin: 25px 972px;}
 
 .par {
     color: rgba(8, 3, 19, 0.891);
