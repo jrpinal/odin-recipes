@@ -20,6 +20,14 @@ h1 {
     color: rgb(80, 190, 58);
 }
 
+.par {
+    display: inline-block;
+    border: 2px solid rgb(80, 190, 58);
+    background-color: rgb(215, 215, 215);
+    padding: 10px 20px;
+    margin: 5px;
+}
+
 h2 {
     color: rgb(215, 215, 215);
 }
