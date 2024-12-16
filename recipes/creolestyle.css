@@ -1,6 +1,7 @@
-* {
+body {
     background-color: rgb(206, 55, 55);
     font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
 }
 
 .img {
@@ -22,12 +23,27 @@ h1 {
 
 .par {
     display: inline-block;
-    border: 2px solid rgb(80, 190, 58);
-    background-color: rgb(215, 215, 215);
+    border: 2px solid rgba(80, 190, 58, 0.759);
+    background-color: rgba(215, 215, 215, 0.886);
     padding: 10px 20px;
     margin: 5px;
 }
 
 h2 {
     color: rgb(215, 215, 215);
+}
+
+ul {
+    display: inline-block;
+    border: 2px solid rgb(215, 215, 215);
+    background-color: rgba(80, 190, 58, 0.759);
+    padding: 10px  35px;
+}
+
+ol {
+    display: inline-block;
+    border: 2px solid rgba(80, 190, 58, 0.759);
+    background-color: rgba(215, 215, 215, 0.886);
+    margin: 5px;
+    padding: 10px 10px 10px 55px;
 }
