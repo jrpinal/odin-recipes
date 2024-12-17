@@ -32,3 +32,11 @@ h2 {
 .ing {
     color:rgb(190, 58, 58)
 }
+
+ul {
+    display: inline-block;
+    border: 2px solid rgb(190, 58, 58);
+    padding: 10px 35px;
+    margin: 5px;
+    background-color: rgb(58, 98, 190);
+}
