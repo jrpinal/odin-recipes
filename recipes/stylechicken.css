@@ -44,7 +44,7 @@ ul {
 ol {
     display: inline-block;
     border: 2px solid rgb(58, 98, 190);
-    padding: 10px 35px;
+    padding: 5px 10px 10px 45px;
     margin: 5px;
     background-color:rgb(190, 58, 58)
 }
