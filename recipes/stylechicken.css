@@ -4,10 +4,31 @@ body {
     box-sizing: border-box;
 }
 
+h1 {
+    text-align: center;
+    color:rgb(58, 164, 58)
+}
+
 .img {
     display: block;
     border: 3px solid rgb(190, 58, 58);
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+h2 {
+    color: rgb(58, 98, 190);
+}
+
+.par {
+    display: inline-block;
+    border: 2px solid rgb(58, 98, 190);
+    background-color: rgb(190, 58, 58);
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+.ing {
+    color:rgb(190, 58, 58)
 }
